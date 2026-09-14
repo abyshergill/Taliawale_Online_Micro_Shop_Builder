@@ -3,8 +3,10 @@
 Welcome to TaliaWale! This platform helps you create your online store in minutes — or browse and order from stores near you. No technical knowledge needed.
 
 ---
+![Dashboard Preview](images/landing_page.png) 
 
-## What Is TaliaWale?
+## What Is [TaliaWale?](https://taliawale.com/)? 
+[Live Webiste : Click Here ](https://taliawale.com/) 
 
 TaliaWale is a simple online platform where:
 
@@ -32,6 +34,6 @@ Whether you run a food stall, an electronics shop, a fashion boutique, or any sm
 
 ---
 
-![Dashboard Preview](docs/images/dashboard-placeholder.png) 
+
 🔗 **[Read the full Dashboard Documentation here](docs/dashboard/README.md)**
 © 2026 TaliaWale. All rightsreserved.
