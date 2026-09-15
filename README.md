@@ -33,7 +33,3 @@ Whether you run a food stall, an electronics shop, a fashion boutique, or any sm
 - **[Customer Guide](./buyer/README.md)** — Complete guide for browsing, ordering, and tracking
 
 ---
-
-
-🔗 **[Read the full Dashboard Documentation here](docs/dashboard/README.md)**
-© 2026 TaliaWale. All rightsreserved.

@@ -17,6 +17,7 @@ This application helps you create your online shop in just a few minutes. Follow
 
 > **Note:** If you forget your password, contact us through the **Contact Us** page — there is no self-service password reset.
 
+![](../../images/owner/register.png)
 ---
 
 ### 2. Set Up Your Store Information
@@ -38,6 +39,7 @@ After logging in:
 | **Store Picture** | Upload a photo of your store |
 | **Currency** | Select your currency from the dropdown. Choose **Custom** first if you want to use your own symbol |
 
+![](../../images/owner/shop_info.png)
 4. Under **Checkout Settings**, toggle which fields customers must fill:
    - **Accept Orders When Closed** — Allow orders even when your store is closed (disabled by default)
    - **Require Table Number** — For restaurants and food courts
@@ -47,6 +49,7 @@ After logging in:
 
 5. Click **Save Changes**.
 
+![](../../images/owner/store_info2.png)
 ---
 
 ### 3. Set Your Operating Hours
@@ -59,6 +62,7 @@ After logging in:
 
 > Your store's open/closed status updates automatically based on these times and your selected timezone.
 
+![](../../images/owner/store_hour.png)
 ---
 
 ### 4. Create Categories
@@ -79,6 +83,7 @@ You can **Edit** or **Delete** existing categories at any time.
 
 > **Note:** Deleting a category does not delete its items — they remain in your item list but without a category assigned.
 
+![](../../images/owner/category.png)
 ---
 
 ### 5. Add Menu Items

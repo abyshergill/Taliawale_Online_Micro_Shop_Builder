@@ -30,7 +30,6 @@ If you want to create your own online store:
 
 For detailed step-by-step instructions, see the **[Store Owner Guide](./owner_guide/README.md)**.
 
-![Dashboard Preview](docs/images/dashboard-placeholder.png) 
-🔗 **[Read the full Dashboard Documentation here](docs/dashboard/README.md)**
+![Dashboard Preview](../images/owner/shop.png) 
 
 © 2026 TaliaWale. All rightsreserved.
